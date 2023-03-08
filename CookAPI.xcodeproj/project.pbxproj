@@ -23,6 +23,7 @@
 		7D4222E62978AED900D148F1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7D4222E52978AED900D148F1 /* GoogleService-Info.plist */; };
 		7D6089BF29B87BCF0068AD28 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D6089BD29B87BCF0068AD28 /* AboutViewController.swift */; };
 		7D6089C029B87BCF0068AD28 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */; };
+		7DADB35329B8FEE1003D6EE2 /* CookAPITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DADB35229B8FEE1003D6EE2 /* CookAPITests.swift */; };
 		7DF1226329945ABC002C7FF3 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF1226129945ABC002C7FF3 /* EditProfileViewController.swift */; };
 		7DF1226429945ABC002C7FF3 /* EditProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DF1226229945ABC002C7FF3 /* EditProfileViewController.xib */; };
 		CD363DEF2991157800C0D025 /* RecipeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD363DEE2991157800C0D025 /* RecipeView.xib */; };
@@ -66,6 +67,7 @@
 		7D4222E52978AED900D148F1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7D6089BD29B87BCF0068AD28 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
+		7DADB35229B8FEE1003D6EE2 /* CookAPITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookAPITests.swift; sourceTree = "<group>"; };
 		7DF1226129945ABC002C7FF3 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 		7DF1226229945ABC002C7FF3 /* EditProfileViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EditProfileViewController.xib; sourceTree = "<group>"; };
 		CD363DEE2991157800C0D025 /* RecipeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecipeView.xib; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 				7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */,
 				E49777D729B897C300C3B017 /* CourseListViewController.swift */,
 				E49777D829B897C300C3B017 /* CourseListViewController.xib */,
+				7DADB35229B8FEE1003D6EE2 /* CookAPITests.swift */,
 			);
 			path = CookAPI;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				E4EF2E7D29B7DCC7005D83C0 /* StepTableViewCell.swift in Sources */,
 				E411A89E29953921005BBAE1 /* EditRecipeViewController.swift in Sources */,
 				CD55051029870FB900F19624 /* ImageFactory.swift in Sources */,
+				7DADB35329B8FEE1003D6EE2 /* CookAPITests.swift in Sources */,
 				E49777D929B897C300C3B017 /* CourseListViewController.swift in Sources */,
 				CD5505082987085C00F19624 /* Rating.swift in Sources */,
 				CD55050A298708B700F19624 /* Ingredient.swift in Sources */,
