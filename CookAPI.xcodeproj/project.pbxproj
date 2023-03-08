@@ -23,7 +23,6 @@
 		7D4222E62978AED900D148F1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7D4222E52978AED900D148F1 /* GoogleService-Info.plist */; };
 		7D6089BF29B87BCF0068AD28 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D6089BD29B87BCF0068AD28 /* AboutViewController.swift */; };
 		7D6089C029B87BCF0068AD28 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */; };
-		7DADB35129B8DDE4003D6EE2 /* Gemfile in Resources */ = {isa = PBXBuildFile; fileRef = 7DADB35029B8DDE4003D6EE2 /* Gemfile */; };
 		7DF1226329945ABC002C7FF3 /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF1226129945ABC002C7FF3 /* EditProfileViewController.swift */; };
 		7DF1226429945ABC002C7FF3 /* EditProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DF1226229945ABC002C7FF3 /* EditProfileViewController.xib */; };
 		CD363DEF2991157800C0D025 /* RecipeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD363DEE2991157800C0D025 /* RecipeView.xib */; };
@@ -67,7 +66,6 @@
 		7D4222E52978AED900D148F1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7D6089BD29B87BCF0068AD28 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
-		7DADB35029B8DDE4003D6EE2 /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
 		7DF1226129945ABC002C7FF3 /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 		7DF1226229945ABC002C7FF3 /* EditProfileViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EditProfileViewController.xib; sourceTree = "<group>"; };
 		CD363DEE2991157800C0D025 /* RecipeView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecipeView.xib; sourceTree = "<group>"; };
@@ -213,7 +211,6 @@
 				7D6089BE29B87BCF0068AD28 /* AboutViewController.xib */,
 				E49777D729B897C300C3B017 /* CourseListViewController.swift */,
 				E49777D829B897C300C3B017 /* CourseListViewController.xib */,
-				7DADB35029B8DDE4003D6EE2 /* Gemfile */,
 			);
 			path = CookAPI;
 			sourceTree = "<group>";
@@ -289,7 +286,6 @@
 				E4EF2E7E29B7DCC7005D83C0 /* StepTableViewCell.xib in Resources */,
 				CD71A351295670440094D0ED /* Assets.xcassets in Resources */,
 				E411A89F29953921005BBAE1 /* EditRecipeViewController.xib in Resources */,
-				7DADB35129B8DDE4003D6EE2 /* Gemfile in Resources */,
 				7D2A2CF82973000400F3758F /* SuccessAuthViewController.xib in Resources */,
 				CDFD3A5F2993B10100CF066D /* FullRecipeViewController.xib in Resources */,
 				7D3FFE572971CAF900AF346C /* AuthenticationViewController.xib in Resources */,
