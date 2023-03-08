@@ -2,5 +2,5 @@
 # https://docs.fastlane.tools/actions/scan/#scanfile
 
 scheme("CookAPI")
-device("iPhone 13 Pro")
+device("iPhone 13")
 include_simulator_logs(false)
