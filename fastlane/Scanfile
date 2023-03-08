@@ -1,6 +1,6 @@
 # For more information about this configuration visit
 # https://docs.fastlane.tools/actions/scan/#scanfile
 
-scheme("CookAPI")
+scheme("CookAPI-ios")
 device("iPhone 13")
 include_simulator_logs(false)
